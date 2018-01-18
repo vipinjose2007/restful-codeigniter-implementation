@@ -91,7 +91,7 @@ Response : success
 
 Delete a student from the system. 
 
-PUT http://localhost/restful-services-in-codeigniter/api/deletestudent
+DELETE http://localhost/restful-services-in-codeigniter/api/deletestudent
 
 Argument(s) : student_id 
 
